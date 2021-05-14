@@ -52,5 +52,5 @@ module.exports = {
             'unicorn/prevent-abbreviations': 'off',
             'unicorn/prefer-spread': 'off',
       },
-      ignorePatterns: ['**/scripts/*.js'],
+      ignorePatterns: ['**/scripts/*.js', 'jest.config.js'],
 }
