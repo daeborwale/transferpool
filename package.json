@@ -48,17 +48,6 @@
             "url": "git+https://github.com/ahkohd/transfer-pool"
       },
       "keywords": [],
-      "jest": {
-            "testEnvironment": "jsdom",
-            "testPathIgnorePatterns": [
-                  "node_modules",
-                  "dist",
-                  "coverage"
-            ],
-            "transform": {
-                  "^.+\\.ts?$": "ts-jest"
-            }
-      },
       "author": "ahkohd",
       "license": "MIT",
       "bugs": {
